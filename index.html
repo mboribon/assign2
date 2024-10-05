@@ -10,21 +10,31 @@
     <script>
         const spec = {
             "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-            "title": "Languages Around the Globe",
+            "title": {
+                "text": "Languages Around the Globe",
+                "anchor": "start",
+                "fontSize" : 20,
+                "fontWeight": 900
+            },
             "width": 1350,
             "height": 700,
-            "projection": {
-                "type": "equirectangular"
-            },
+            "projection": {"type": "Equirectangular", "rotate": [-162,0,0]},
             "layer": [
-                {
+            {
                     "data": {
-                        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/2_symbol_map/js/ne_110m_admin_0_countries.topojson",
-                        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+                        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/7_others/oceans.topojson",
+                        "format": {"type": "topojson", "feature": "oceans"}
                             },
-                    "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "black"}
+                    "mark": {"type": "geoshape", "fill": "skyblue"} //ocean 
+            },  
+            {
+                    "data": {
+                        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/2_symbol_map/js/WorldMapWithGraticules.topojson",
+                        "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
+                            },
+                    "mark": {"type": "geoshape", "fill": "null", "stroke": "lightgray"} //graticules
             },
-                {
+            {
                     "data": {
                         "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
                         "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
@@ -41,29 +51,31 @@
                             }
                         },
                     ],
-                        "mark":{"type":"geoshape","colour":"blue", "stroke": "black"},
+                    "mark":{"type":"geoshape", "fill": "lightgrey", "stroke": "white"}, //selection
                         "params": [{
-                        "name": "Select",
-                        "select": {"type": "point", "fields":["Official language"]},
-                        "bind": {"input":"select", "options":[
-                            null, 
-                            "English",
-                            "Spanish",
-                            "Arabic",
-                            "Portuguese",
-                            "Russian",
-                            "Japanese",
-                            "French",
-                            "Standard Chinese"
-                        ]
-                    },
-                        "legend":"null"
-                    }],
+                            "name": "languageselect",
+                            "value": "English",
+                            "select": {"type": "point", "fields":["Official language"]},
+                            "bind": {
+                                "input":"select", 
+                                "options":[ 
+                                    "English",
+                                    "Spanish",
+                                    "Arabic",
+                                    "Portuguese",
+                                    "Russian",
+                                    "Japanese",
+                                    "French",
+                                    "Standard Chinese",
+                                    null,
+                                    ],
+                                "name": "Official Language "
+                            },
+                            }],
                     "encoding": {
-                            "color": {
-                                "field": "Officical language",
+                            "fill": {
                                 "type": "nominal",
-                                "condition": {"param": "Select", "value": "lightgray"}
+                                "condition": {"param": "languageselect", "value": "green"} //colour of selected language
                             },
                             "tooltip": [
                             {"field": "properties.ADMIN", "type": "nominal", "title":"Country"},
