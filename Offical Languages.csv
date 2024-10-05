@@ -1,360 +1,406 @@
-Country/Region,Languages,Count,,,,,,
-Abkhazia,Abkhaz,1,,,,,,
-Afghanistan,Afar,1,,,,,,
-Albania,Afrikaans,1,,,,,,
-Algeria,Albanian,1,,,,,,
-Andorra,Amharic,1,,,,,,
-Angola,Angolan Portuguese,1,,,,,,
-Antigua and Barbuda,Antiguan,1,,,,,,
-Argentina,Arabic,1,,,,,,
-Armenia,Aragonese,1,,,,,,
-Australia,Araona,1,,,,,,
-Austria,Argentine Spanish,1,,,,,,
-Azerbaijan,Armenian,1,,,,,,
-Bahamas,Aromanian,1,,,,,,
-Bahrain,Assamese,1,,,,,,
-Bangladesh,Assyrian,1,,,,,,
-Barbados,Astur-Leonese,1,,,,,,
-Barbuda,Aymara,1,,,,,,
-Belarus,Azerbaijani,1,,,,,,
-Belgium,Balochi,1,,,,,,
-Belize,Bambara,1,,,,,,
-Benin,Bantu,1,,,,,,
-Bhutan,Barbudan Creole,1,,,,,,
-Bolivia,Bari,1,,,,,,
-Bosnia,Basque,1,,,,,,
-Botswana,Baure,1,,,,,,
-Brazil,Belarusian,1,,,,,,
-Brunei,Bengali,1,,,,,,
-Bulgaria,Benshangul,1,,,,,,
-Burkina Faso,Berber,1,,,,,,
-Burundi,Bésiro,1,,,,,,
-Cambodia,Bislama,1,,,,,,
-Cameroon,Bobo,1,,,,,,
-Canada,Bodo,1,,,,,,
-Cape Verde,Bokmål(written),1,,,,,,
-Central African Republic,Bosnian,1,,,,,,
-Chad,Bozo,1,,,,,,
-Chile,Breton,1,,,,,,
-China,Bulgarian,1,,,,,,
-Christmas Island,Burmese,1,,,,,,
-Cocos (Keeling) Islands,Canichana,1,,,,,,
-Colombia,Cantonese,1,,,,,,
-Comoros,Cape Verdean Creole,1,,,,,,
-Cook Islands,Castilian,1,,,,,,
-Costa Rica,Catalan,1,,,,,,
-Croatia,Cavineña,1,,,,,,
-Cuba,Cayubaba,1,,,,,,
-Cyprus,Central Thai,1,,,,,,
-Czech Republic,Chácobo,1,,,,,,
-Democratic Republic of the Congo,Chakma,1,,,,,,
-Denmark,Cham,1,,,,,,
-Djibouti,Chechen,1,,,,,,
-Dominica,Chewa,1,,,,,,
-Dominican Republic,Chibarwe,1,,,,,,
-East Timor,Chichewa,1,,,,,,
-Ecuador,Chimán,1,,,,,,
-Egypt,Chinese,1,,,,,,
-El Salvador,Chipewyan,1,,,,,,
-Equatorial Guinea,Chokwe,1,,,,,,
-Eritrea,Circassian,1,,,,,,
-Estonia,Cocos Malay,1,,,,,,
-Eswatini,Comorian,1,,,,,,
-Ethiopia,Cook Islands M?ori,1,,,,,,
-Federated States of Micronesia,Coptic,1,,,,,,
-Fiji,Corsican ,1,,,,,,
-Finland,Cree,1,,,,,,
-France,Croatian,1,,,,,,
-Gabon,Cypriot Arabic,1,,,,,,
-Gambia,Czech,1,,,,,,
-Georgia,Danish,1,,,,,,
-Germany,Dhivehi,1,,,,,,
-Ghana,Dinka,1,,,,,,
-Greece,Dogon,1,,,,,,
-Grenada,Dogri,1,,,,,,
-Guatemala,Dutch,1,,,,,,
-Guinea,Dutch Low Saxon,1,,,,,,
-Guinea-Bissau,Dutch Sign Language,1,,,,,,
-Guyana,Dzongkha,1,,,,,,
-Haiti,Egyptian Arabic,1,,,,,,
-Herzegovina,English,1,,,,,,
-Honduras,Ese Ejja,1,,,,,,
-Hungary,Estonian,1,,,,,,
-Iceland,Faifi,1,,,,,,
-India,Fala,1,,,,,,
-Indonesia,Fiji Hindi,1,,,,,,
-Iran,Fijian,1,,,,,,
-Iraq,Filipino,1,,,,,,
-Ireland,Filipino Sign Language,1,,,,,,
-Israel,Finnish,1,,,,,,
-Italy,Finnish ,1,,,,,,
-Ivory Coast,Formosan ,1,,,,,,
-Jamaica,French,1,,,,,,
-Japan,Fula,1,,,,,,
-Jordan,Fulfulde,1,,,,,,
-Kazakhstan,Ganguela,1,,,,,,
-Kenya,Garifuna,1,,,,,,
-Kiribati,Georgian,1,,,,,,
-Kosovo,German,1,,,,,,
-Kuwait,German ,1,,,,,,
-Kyrgyzstan,Gilaki,1,,,,,,
-Laos,Gilbertese,1,,,,,,
-Latvia,Greek,1,,,,,,
-Lebanon,Guaraní,1,,,,,,
-Lesotho,Guarasu'we,1,,,,,,
-Liberia,Guarayu,1,,,,,,
-Libya,Gujarati,1,,,,,,
-Liechtenstein,Gulmancema,1,,,,,,
-Lithuania,Gumuz,1,,,,,,
-Luxembourg,Guyanese Creole,1,,,,,,
-Madagascar,Gwich'in,1,,,,,,
-Malawi,Haitian Creole,1,,,,,,
-Malaysia,Hajong,1,,,,,,
-Maldives,Harari,1,,,,,,
-Mali,Hassaniya,1,,,,,,
-Malta,Hausa,1,,,,,,
-Marshall Islands,Hebrew,1,,,,,,
-Mauritania,Hindi,1,,,,,,
-Mauritius,Hiri Motu,1,,,,,,
-Mexico,Hmong,1,,,,,,
-Moldova,Hungarian,1,,,,,,
-Monaco,Icelandic,1,,,,,,
-Mongolia,Icelandic Sign Language,1,,,,,,
-Montenegro,Igbo,1,,,,,,
-Morocco,Indigenous languages,1,,,,,,
-Mozambique,Indonesian,1,,,,,,
-Myanmar(Burma),Inuinnaqtun,1,,,,,,
-Namibia,Inuktitut,1,,,,,,
-Nauru,Inuvialuktun,1,,,,,,
-Nepal,Irish,1,,,,,,
-Netherlands,Italian,1,,,,,,
-New Zealand,Itonama,1,,,,,,
-Nicaragua,Jamaican Patois,1,,,,,,
-Niger,Japanese,1,,,,,,
-Nigeria,Javanese,1,,,,,,
-Niue,Jola-Fogny,1,,,,,,
-Norfolk Island,Jula,1,,,,,,
-North Korea,Kalanga,1,,,,,,
-North Macedonia,Kannada,1,,,,,,
-Northern Cyprus,Kanuri,1,,,,,,
-Norway,Karaim,1,,,,,,
-Oman,Karakalpak,1,,,,,,
-Pakistan,Kashmiri,1,,,,,,
-Palau,Kassonke,1,,,,,,
-Palestine,Kazakh,1,,,,,,
-Panama,Khmer,1,,,,,,
-Papua New Guinea,Khoisan,1,,,,,,
-Paraguay,Kichwa,1,,,,,,
-Peru,Kikongo,1,,,,,,
-Philippines,Kimbundu,1,,,,,,
-Poland,Kinyarwanda,1,,,,,,
-Portugal,Kirundi,1,,,,,,
-Qatar,Konkani,1,,,,,,
-Republic of the Congo,Korean,1,,,,,,
-Romania,Korean Sign Language,1,,,,,,
-Russia,Krio,1,,,,,,
-Rwanda,Kriol,1,,,,,,
-Sahrawi Arab Democratic Republic,Kunama,1,,,,,,
-Saint Kitts and Nevis,Kurdish,1,,,,,,
-Saint Lucia,Kuwaiti Arabic,1,,,,,,
-Saint Vincent and the Grenadines,Kuwaiti Persian,1,,,,,,
-Samoa,Kuwaiti Sign Language,1,,,,,,
-San Marino,Kven,1,,,,,,
-São Tomé and Príncipe,Kwanyama,1,,,,,,
-Saudi Arabia,Kyrgyz,1,,,,,,
-Senegal,Ladin,1,,,,,,
-Serbia,Lao,1,,,,,,
-Seychelles,Latvian,1,,,,,,
-Sierra Leone,Leco,1,,,,,,
-Singapore,Lemko,1,,,,,,
-Slovakia,Limburgish,1,,,,,,
-Slovenia,Limonese Creole,1,,,,,,
-Solomon Islands,Lingala,1,,,,,,
-Somalia,Lithuanian,1,,,,,,
-Somaliland,Lower Sorbian,1,,,,,,
-South Africa,Luo,1,,,,,,
-South Korea,Luri,1,,,,,,
-South Ossetia,Luxembourgish,1,,,,,,
-South Sudan,Macedonian,1,,,,,,
-Sovereign Military Order of Malta,Machajuyai-Kallawaya,1,,,,,,
-Spain,Machineri,1,,,,,,
-Sri Lanka,Madurese,1,,,,,,
-Sudan,Maithili,1,,,,,,
-Suriname,Malagasy,1,,,,,,
-Sweden,Malay,1,,,,,,
-Switzerland,Malayalam,1,,,,,,
-Syria,Maltese,1,,,,,,
-Taiwan,Mandarin,1,,,,,,
-Tajikistan,Mandarin Chinese,1,,,,,,
-Tanzania,Mandinka,1,,,,,,
-Thailand,Maninka,1,,,,,,
-Togo,Maninke,1,,,,,,
-Tokelau,Manipuri,1,,,,,,
-Tonga,Maori,1,,,,,,
-Transnistria,Marathi,1,,,,,,
-Trinidad and Tobago,Marma,1,,,,,,
-Tunisia,Maropa,1,,,,,,
-Turkey,Marshallese,1,,,,,,
-Turkmenistan,Matsu dialect,1,,,,,,
-Tuvalu,Mauritian Creole,1,,,,,,
-Uganda,Maya,1,,,,,,
-Ukraine,Mazanderani,1,,,,,,
-United Arab Emirates,Meänkieli,1,,,,,,
-United Kingdom,Mehri,1,,,,,,
-United States,Meitei(Manipuri),1,,,,,,
-Uruguay,Mi'kmaq,1,,,,,,
-Uzbekistan,Minangkabau,1,,,,,,
-Vanuatu,Minyanka,1,,,,,,
-Vatican City,Mojeño-Ignaciano,1,,,,,,
-Venezuela,Mojeño-Trinitario,1,,,,,,
-Vietnam,Moldovan,1,,,,,,
-Yemen,Monégasque,1,,,,,,
-Zambia,Mongolian,1,,,,,,
-Zimbabwe,Montenegrin,1,,,,,,
-Zimbabwe,More,1,,,,,,
-Zimbabwe,Moré,1,,,,,,
-Zimbabwe,Mosetén,1,,,,,,
-Zimbabwe,Movima,1,,,,,,
-Zimbabwe,Munukutuba,1,,,,,,
-Zimbabwe,Muong,1,,,,,,
-Zimbabwe,Murle,1,,,,,,
-Zimbabwe,Nambya,1,,,,,,
-Zimbabwe,Nauruan,1,,,,,,
-Zimbabwe,Ndau,1,,,,,,
-Zimbabwe,Ndebele,1,,,,,,
-Zimbabwe,Nepali,1,,,,,,
-Zimbabwe,New Zealand Sign Language,1,,,,,,
-Zimbabwe,Niuean,1,,,,,,
-Zimbabwe,Norfuk,1,,,,,,
-Zimbabwe,North Frisian,1,,,,,,
-Zimbabwe,North Slavey,1,,,,,,
-Zimbabwe,Northern Sotho,1,,,,,,
-Zimbabwe,Norwegian,1,,,,,,
-Zimbabwe,Nuer,1,,,,,,
-Zimbabwe,Nynorsk(written),1,,,,,,
-Zimbabwe,Occitan,1,,,,,,
-Zimbabwe,Odia(Oriya),1,,,,,,
-Zimbabwe,Oromo,1,,,,,,
-Zimbabwe,Ossetian,1,,,,,,
-Zimbabwe,Pacawara,1,,,,,,
-Zimbabwe,Palauan,1,,,,,,
-Zimbabwe,Pashto,1,,,,,,
-Zimbabwe,Persian,1,,,,,,
-Zimbabwe,PNG Sign Language,1,,,,,,
-Zimbabwe,Polish,1,,,,,,
-Zimbabwe,Portuguese,1,,,,,,
-Zimbabwe,Pulaar,1,,,,,,
-Zimbabwe,Punjabi,1,,,,,,
-Zimbabwe,Puquina,1,,,,,,
-Zimbabwe,Qashqai,1,,,,,,
-Zimbabwe,Quechua,1,,,,,,
-Zimbabwe,Rade,1,,,,,,
-Zimbabwe,Rakhine,1,,,,,,
-Zimbabwe,Razihi,1,,,,,,
-Zimbabwe,Romani,1,,,,,,
-Zimbabwe,Romanian,1,,,,,,
-Zimbabwe,Romansh,1,,,,,,
-Zimbabwe,Russian,1,,,,,,
-Zimbabwe,Rusyn,1,,,,,,
-Zimbabwe,Sami,1,,,,,,
-Zimbabwe,Samoan,1,,,,,,
-Zimbabwe,Sango,1,,,,,,
-Zimbabwe,Sanskrit,1,,,,,,
-Zimbabwe,Santali,1,,,,,,
-Zimbabwe,Saraiki,1,,,,,,
-Zimbabwe,Scandoromani,1,,,,,,
-Zimbabwe,Senufo,1,,,,,,
-Zimbabwe,Serbian,1,,,,,,
-Zimbabwe,Serbian ,1,,,,,,
-Zimbabwe,Serer,1,,,,,,
-Zimbabwe,Seychellois Creole,1,,,,,,
-Zimbabwe,Shangani,1,,,,,,
-Zimbabwe,Shehri,1,,,,,,
-Zimbabwe,Shona,1,,,,,,
-Zimbabwe,Shuar,1,,,,,,
-Zimbabwe,Sidamo,1,,,,,,
-Zimbabwe,Sindhi,1,,,,,,
-Zimbabwe,Sinhala,1,,,,,,
-Zimbabwe,Sinte Romani,1,,,,,,
-Zimbabwe,Sirionó,1,,,,,,
-Zimbabwe,Slovak,1,,,,,,
-Zimbabwe,Slovene,1,,,,,,
-Zimbabwe,Somali,1,,,,,,
-Zimbabwe,Songhay,1,,,,,,
-Zimbabwe,Soninke,1,,,,,,
-Zimbabwe,Soqotri,1,,,,,,
-Zimbabwe,Sotho,1,,,,,,
-Zimbabwe,South Slavey,1,,,,,,
-Zimbabwe,Southern Ndebele,1,,,,,,
-Zimbabwe,Spanish,1,,,,,,
-Zimbabwe,Sranan Tongo,1,,,,,,
-Zimbabwe,Standard Arabic,1,,,,,,
-Zimbabwe,Standard Chinese,1,,,,,,
-Zimbabwe,Sundanese,1,,,,,,
-Zimbabwe,Susu,1,,,,,,
-Zimbabwe,Swahili,1,,,,,,
-Zimbabwe,Swazi,1,,,,,,
-Zimbabwe,Swedish,1,,,,,,
-Zimbabwe,Swiss German,1,,,,,,
-Zimbabwe,Tacana,1,,,,,,
-Zimbabwe,Taiwan Sign Language,1,,,,,,
-Zimbabwe,Taiwanese Hakka,1,,,,,,
-Zimbabwe,Taiwanese Hokkien,1,,,,,,
-Zimbabwe,Taiwanese Mandarin,1,,,,,,
-Zimbabwe,Tajik,1,,,,,,
-Zimbabwe,Tamasheq,1,,,,,,
-Zimbabwe,Tamazight,1,,,,,,
-Zimbabwe,Tamil,1,,,,,,
-Zimbabwe,Tapieté,1,,,,,,
-Zimbabwe,Tatar,1,,,,,,
-Zimbabwe,Tati,1,,,,,,
-Zimbabwe,Tay,1,,,,,,
-Zimbabwe,Telugu,1,,,,,,
-Zimbabwe,Tetum,1,,,,,,
-Zimbabwe,Thai,1,,,,,,
-Zimbabwe,Tibetan,1,,,,,,
-Zimbabwe,Tigrinya,1,,,,,,
-Zimbabwe,T???ch?,1,,,,,,
-Zimbabwe,Tok Pisin,1,,,,,,
-Zimbabwe,Tokelauan,1,,,,,,
-Zimbabwe,Tonga,1,,,,,,
-Zimbabwe,Tongan,1,,,,,,
-Zimbabwe,Toromona,1,,,,,,
-Zimbabwe,Trinidadian Creole,1,,,,,,
-Zimbabwe,Tripuri,1,,,,,,
-Zimbabwe,Tshiluba,1,,,,,,
-Zimbabwe,Tsonga,1,,,,,,
-Zimbabwe,Tswana,1,,,,,,
-Zimbabwe,Turkish,1,,,,,,
-Zimbabwe,Turkmen,1,,,,,,
-Zimbabwe,Turkmeni,1,,,,,,
-Zimbabwe,Tuvaluan,1,,,,,,
-Zimbabwe,Ukrainian,1,,,,,,
-Zimbabwe,Umbundu,1,,,,,,
-Zimbabwe,Upper Sorbian,1,,,,,,
-Zimbabwe,Urdu,1,,,,,,
-Zimbabwe,Uru-Chipaya,1,,,,,,
-Zimbabwe,Uruguayan Sign Language,1,,,,,,
-Zimbabwe,Uyghur,1,,,,,,
-Zimbabwe,Uzbek,1,,,,,,
-Zimbabwe,Venda,1,,,,,,
-Zimbabwe,Venezuelan Sign Language,1,,,,,,
-Zimbabwe,Vietnamese,1,,,,,,
-Zimbabwe,Vietnamese sign languages,1,,,,,,
-Zimbabwe,Weenhayek,1,,,,,,
-Zimbabwe,Western Neo-Aramaic,1,,,,,,
-Zimbabwe,Wolof,1,,,,,,
-Zimbabwe,Wuqiu dialect,1,,,,,,
-Zimbabwe,Xhosa,1,,,,,,
-Zimbabwe,Xinca,1,,,,,,
-Zimbabwe,Yaminawa,1,,,,,,
-Zimbabwe,Yiddish,1,,,,,,
-Zimbabwe,Yoruba,1,,,,,,
-Zimbabwe,Yuki,1,,,,,,
-Zimbabwe,Yuracaré,1,,,,,,
-Zimbabwe,Zamuco,1,,,,,,
-Zimbabwe,Zande,1,,,,,,
-Zimbabwe,Zarma,1,,,,,,
-Zimbabwe,Zhuang,1,,,,,,
-Zimbabwe,Zulu,1,,,,,,
-
+Country,Official language,Count
+Abkhazia,Abkhaz,1
+Abkhazia,Russian,1
+Afghanistan,Persian,1
+Afghanistan,Pashto,1
+Albania,Albanian,1
+Algeria,Arabic,1
+Algeria,Berber,1
+Andorra,Catalan,1
+Angola,Portuguese,1
+Antigua and Barbuda,English,1
+Argentina,Spanish,1
+Armenia,Armenian,1
+Australia,English,1
+Austria,German,1
+Azerbaijan,Azerbaijani,1
+Bahamas,English,1
+Bahrain,Arabic,1
+Bangladesh,Bengali,1
+Barbados,English,1
+Belarus,Belarusian,1
+Belarus,Russian,1
+Belgium,Dutch,1
+Belgium,French,1
+Belgium,German,1
+Belize,English,1
+Benin,French,1
+Bhutan,Dzongkha,1
+Bolivia,Castilian,1
+Bolivia,Aymara,1
+Bolivia,Araona,1
+Bolivia,Baure,1
+Bolivia,Bésiro,1
+Bolivia,Canichana,1
+Bolivia,Cavineña,1
+Bolivia,Cayubaba,1
+Bolivia,Chácobo,1
+Bolivia,Chimán,1
+Bolivia,Ese Ejja,1
+Bolivia,Guaraní,1
+Bolivia,Guarasu'we,1
+Bolivia,Guarayu,1
+Bolivia,Itonama,1
+Bolivia,Leco,1
+Bolivia,Machajuyai-Kallawaya,1
+Bolivia,Machineri,1
+Bolivia,Maropa,1
+Bolivia,Mojeño-Ignaciano,1
+Bolivia,Mojeño-Trinitario,1
+Bolivia,Moré,1
+Bolivia,Mosetén,1
+Bolivia,Movima,1
+Bolivia,Pacawara,1
+Bolivia,Puquina,1
+Bolivia,Quechua,1
+Bolivia,Sirionó,1
+Bolivia,Tacana,1
+Bolivia,Tapieté,1
+Bolivia,Toromona,1
+Bolivia,Uru-Chipaya,1
+Bolivia,Weenhayek,1
+Bolivia,Yaminawa,1
+Bolivia,Yuki,1
+Bolivia,Yuracaré,1
+Bolivia,Zamuco,1
+Bosnia,Bosnian,1
+Bosnia,Serbian,1
+Bosnia,Croatian,1
+Herzegovina,Bosnian,1
+Herzegovina,Serbian,1
+Herzegovina,Croatian,1
+Botswana,English,1
+Brazil,Portuguese,1
+Brunei,Malay,1
+Bulgaria,Bulgarian,1
+Burkina Faso,French,1
+Burundi,French,1
+Burundi,Kirundi,1
+Burundi,English,1
+Cambodia,Khmer,1
+Cameroon,English,1
+Cameroon,French,1
+Canada,English,1
+Canada,French,1
+Cape Verde,Portuguese,1
+Central African Republic,French,1
+Central African Republic,Sango,1
+Chad,Arabic,1
+Chad,French,1
+Chile,Spanish,1
+China,Standard Chinese,1
+Christmas Island,English,1
+Christmas Island,Mandarin Chinese,1
+Christmas Island,Malay,1
+Cocos (Keeling) Islands,English,1
+Cocos (Keeling) Islands,Cocos Malay,1
+Colombia,Spanish,1
+Comoros,Arabic,1
+Comoros,Comorian,1
+Comoros,French,1
+Democratic Republic of the Congo,French,1
+Republic of the Congo,French,1
+Cook Islands,English,1
+Cook Islands,Cook Islands M?ori,1
+Costa Rica,Spanish,1
+Croatia,Croatian,1
+Cuba,Spanish,1
+Cyprus,Greek,1
+Cyprus,Turkish,1
+Czech Republic,Czech,1
+Czech Republic,Slovak,1
+Denmark,Danish,1
+Djibouti,Arabic,1
+Djibouti,French,1
+Dominica,English,1
+Dominican Republic,Spanish,1
+East Timor,Portuguese,1
+East Timor,Tetum,1
+Ecuador,Spanish,1
+Egypt,Arabic,1
+El Salvador,Spanish,1
+Equatorial Guinea,French,1
+Equatorial Guinea,Portuguese,1
+Equatorial Guinea,Spanish,1
+Eritrea,Tigrinya,1
+Estonia,Estonian,1
+Eswatini,English,1
+Eswatini,Swazi,1
+Ethiopia,Afar,1
+Ethiopia,Amharic,1
+Ethiopia,Oromo,1
+Ethiopia,Somali,1
+Ethiopia,Tigrinya,1
+Fiji,English,1
+Fiji,Fijian,1
+Fiji,Fiji Hindi,1
+Finland,Finnish,1
+Finland,Swedish,1
+France,French,1
+Gabon,French,1
+Gambia,English,1
+Georgia,Georgian,1
+Germany,German,1
+Ghana,English,1
+Greece,Greek,1
+Grenada,English,1
+Guatemala,Spanish,1
+Guinea,French,1
+Guinea-Bissau,Portuguese,1
+Guyana,English,1
+Haiti,French,1
+Haiti,Haitian Creole,1
+Honduras,Spanish,1
+Hungary,Hungarian,1
+Iceland,Icelandic,1
+Iceland,Icelandic Sign Language,1
+India,Hindi,1
+India,English,1
+,Assamese,1
+India,Bengali,1
+India,Bodo,1
+India,Dogri,1
+India,Gujarati,1
+India,Hindi,1
+India,Kannada,1
+India,Kashmiri,1
+India,Konkani,1
+India,Maithili,1
+India,Malayalam,1
+India,Meitei(Manipuri),1
+India,Marathi,1
+India,Nepali,1
+India,Odia(Oriya),1
+India,Punjabi,1
+India,Sanskrit,1
+India,Santali,1
+India,Sindhi,1
+India,Tamil,1
+India,Telugu,1
+India,Urdu,1
+Indonesia,Indonesian,1
+Iran,Persian,1
+Iraq,Arabic,1
+Iraq,Kurdish,1
+Ireland,Irish,1
+Ireland,English,1
+Israel,Hebrew,1
+Italy,Italian,1
+Ivory Coast,French,1
+Jamaica,English,1
+Japan,Japanese,1
+Jordan,Arabic,1
+Kazakhstan,Kazakh,1
+Kazakhstan,Russian,1
+Kenya,English,1
+Kenya,Swahili,1
+Kiribati,English,1
+Kiribati,Gilbertese,1
+North Korea,Korean,1
+South Korea,Korean,1
+South Korea,Korean Sign Language,1
+Kosovo,Albanian,1
+Kosovo,Serbian,1
+Kuwait,Standard Arabic,1
+Kyrgyzstan,Kyrgyz,1
+Kyrgyzstan,Russian,1
+Laos,Lao,1
+Latvia,Latvian,1
+Lebanon,Arabic,1
+Lesotho,Sotho,1
+Lesotho,English,1
+Liberia,English,1
+Libya,Arabic,1
+Liechtenstein,German,1
+Lithuania,Lithuanian,1
+Luxembourg,French,1
+Luxembourg,German,1
+Luxembourg,Luxembourgish,1
+Madagascar,French,1
+Madagascar,Malagasy,1
+Malawi,English,1
+Malawi,Chichewa,1
+Malaysia,Malay,1
+Maldives,Dhivehi,1
+Mali,Bambara,1
+Mali,Bobo,1
+Mali,Bozo,1
+Mali,Dogon,1
+Mali,Fula,1
+Mali,Hassaniya,1
+Mali,Kassonke,1
+Mali,Maninke,1
+Mali,Minyanka,1
+Mali,Senufo,1
+Mali,Songhay ,1
+Mali,Soninke,1
+Mali,Tamasheq,1
+Malta,Maltese,1
+Malta,English,1
+Sovereign Military Order of Malta,Italian,1
+Marshall Islands,English,1
+Marshall Islands,Marshallese,1
+Mauritania,Arabic,1
+Mauritius,English,1
+Mauritius,Mauritian Creole,1
+Mexico,Spanish,1
+Federated States of Micronesia,English,1
+Moldova,Romanian,1
+Monaco,French,1
+Mongolia,Mongolian,1
+Montenegro,Montenegrin,1
+Morocco,Arabic,1
+,Berber,1
+Mozambique,Portuguese,1
+Myanmar(Burma),Burmese,1
+Namibia,English,1
+Nauru,English,1
+Nauru,Nauruan,1
+Nepal,Nepali,1
+Netherlands,Dutch,1
+New Zealand,English,1
+New Zealand,Maori ,1
+New Zealand,New Zealand Sign Language,1
+Nicaragua,Spanish,1
+Niger,French,1
+Nigeria,English,1
+Niue,English,1
+Niue,Niuean,1
+Norfolk Island,English,1
+Norfolk Island,Norfuk,1
+North Macedonia,Macedonian,1
+North Macedonia,Albanian,1
+Northern Cyprus,Turkish,1
+Norway,Norwegian,1
+Norway,Sami ,1
+Oman,Arabic,1
+Pakistan,Urdu,1
+Pakistan,English,1
+Palau,English,1
+Palau,Palauan,1
+Palestine,Arabic,1
+Panama,Spanish,1
+Papua New Guinea,English,1
+Papua New Guinea,Hiri Motu,1
+Papua New Guinea,PNG Sign Language,1
+Papua New Guinea,Tok Pisin,1
+Paraguay,Spanish,1
+Paraguay,Guaraní,1
+Peru,Spanish,1
+Philippines,Filipino,1
+Philippines,English,1
+Poland,Polish,1
+Portugal,Portuguese,1
+Qatar,Arabic,1
+Romania,Romanian,1
+Russia,Russian,1
+Rwanda,English,1
+Rwanda,French,1
+Rwanda,Kinyarwanda,1
+Rwanda,Swahili,1
+Sahrawi Arab Democratic Republic,Arabic,1
+Sahrawi Arab Democratic Republic,Spanish,1
+Saint Kitts and Nevis,English,1
+Saint Lucia,English,1
+Saint Vincent and the Grenadines,English,1
+Samoa,English,1
+Samoa,Samoan,1
+San Marino,Italian,1
+São Tomé and Príncipe,Portuguese,1
+Saudi Arabia,Arabic,1
+Senegal,French,1
+Serbia,Serbian,1
+Seychelles,English,1
+Seychelles,French,1
+Seychelles,Seychellois Creole,1
+Sierra Leone,English,1
+Singapore,English,1
+Singapore,Malay,1
+Singapore,Mandarin Chinese,1
+Singapore,Tamil,1
+Slovakia,Slovak,1
+Slovenia,Slovene,1
+Solomon Islands,English,1
+Somalia,Arabic,1
+Somalia,Somali,1
+Somaliland,Arabic,1
+Somaliland,English,1
+Somaliland,Somali,1
+South Africa,Afrikaans,1
+South Africa,English,1
+South Africa,Southern Ndebele,1
+South Africa,Sotho,1
+South Africa,Northern Sotho,1
+South Africa,Swazi,1
+South Africa,Tsonga,1
+South Africa,Tswana,1
+South Africa,Venda,1
+South Africa,Xhosa,1
+South Africa,Zulu,1
+South Ossetia,Ossetian,1
+South Ossetia,Russian,1
+South Sudan,English,1
+Spain,Spanish,1
+Sri Lanka,Sinhala,1
+Sri Lanka,Tamil,1
+Sudan,Arabic,1
+Sudan,English,1
+Suriname,Dutch,1
+Sweden,Swedish,1
+Switzerland,French,1
+Switzerland,German ,1
+Switzerland,Italian ,1
+Switzerland,Romansh,1
+Syria,Arabic,1
+Taiwan,Mandarin,1
+Tajikistan,Tajik,1
+Tanzania,Swahili,1
+Tanzania,English,1
+Thailand,Central Thai,1
+Togo,French,1
+Tokelau,English,1
+Tokelau,Tokelauan,1
+Tonga,English,1
+Tonga,Tongan,1
+Transnistria,Moldovan,1
+Transnistria,Russian,1
+Transnistria,Ukrainian,1
+Trinidad and Tobago,English,1
+Tunisia,Arabic,1
+Turkey,Turkish,1
+Turkmenistan,Turkmen,1
+Tuvalu,Tuvaluan,1
+Tuvalu,English,1
+Uganda,English,1
+Uganda,Swahili,1
+Ukraine,Ukrainian,1
+United Arab Emirates,Arabic,1
+United Kingdom,English,1
+United States,English,1
+Uruguay,Spanish,1
+Uruguay,Uruguayan Sign Language,1
+Uzbekistan,Uzbek,1
+Vanuatu,English,1
+Vanuatu,French,1
+Vanuatu,Bislama,1
+Vatican City,Italian,1
+Venezuela,Spanish,1
+Venezuela,Venezuelan Sign Language,1
+Vietnam,Vietnamese,1
+Yemen,Arabic,1
+Zambia,English,1
+Zimbabwe,Chewa,1
+Zimbabwe,Chibarwe,1
+Zimbabwe,English,1
+Zimbabwe,Kalanga,1
+Zimbabwe,Khoisan,1
+Zimbabwe,Nambya,1
+Zimbabwe,Ndau,1
+Zimbabwe,Ndebele,1
+Zimbabwe,Shangani,1
+Zimbabwe,Shona,1
+Zimbabwe,Sotho,1
+Zimbabwe,Tonga,1
+Zimbabwe,Tswana,1
+Zimbabwe,Venda,1
+Zimbabwe,Xhosa,1
