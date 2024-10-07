@@ -14,7 +14,7 @@ Armenia,Armenian,1
 Australia,English,1
 Austria,German,1
 Azerbaijan,Azerbaijani,1
-Bahamas,English,1
+The Bahamas,English,1
 Bahrain,Arabic,1
 Bangladesh,Bengali,1
 Barbados,English,1
@@ -63,12 +63,9 @@ Bolivia,Yaminawa,1
 Bolivia,Yuki,1
 Bolivia,Yuracaré,1
 Bolivia,Zamuco,1
-Bosnia,Bosnian,1
-Bosnia,Serbian,1
-Bosnia,Croatian,1
-Herzegovina,Bosnian,1
-Herzegovina,Serbian,1
-Herzegovina,Croatian,1
+Bosnia and Herzegovin,Bosnian,1
+Bosnia and Herzegovin,Serbian,1
+Bosnia and Herzegovin,Croatian,1
 Botswana,English,1
 Brazil,Portuguese,1
 Brunei,Malay,1
@@ -124,8 +121,8 @@ Equatorial Guinea,Portuguese,1
 Equatorial Guinea,Spanish,1
 Eritrea,Tigrinya,1
 Estonia,Estonian,1
-Eswatini,English,1
-Eswatini,Swazi,1
+eSwatini,English,1
+eSwatini,Swazi,1
 Ethiopia,Afar,1
 Ethiopia,Amharic,1
 Ethiopia,Oromo,1
@@ -156,7 +153,7 @@ Iceland,Icelandic,1
 Iceland,Icelandic Sign Language,1
 India,Hindi,1
 India,English,1
-,Assamese,1
+India,Assamese,1
 India,Bengali,1
 India,Bodo,1
 India,Dogri,1
@@ -268,8 +265,8 @@ Niue,English,1
 Niue,Niuean,1
 Norfolk Island,English,1
 Norfolk Island,Norfuk,1
-North Macedonia,Macedonian,1
-North Macedonia,Albanian,1
+Macedonia,Macedonian,1
+Macedonia,Albanian,1
 Northern Cyprus,Turkish,1
 Norway,Norwegian,1
 Norway,Sami ,1
@@ -309,7 +306,7 @@ San Marino,Italian,1
 São Tomé and Príncipe,Portuguese,1
 Saudi Arabia,Arabic,1
 Senegal,French,1
-Serbia,Serbian,1
+Republic of Serbia,Serbian,1
 Seychelles,English,1
 Seychelles,French,1
 Seychelles,Seychellois Creole,1
@@ -354,8 +351,8 @@ Switzerland,Romansh,1
 Syria,Arabic,1
 Taiwan,Mandarin,1
 Tajikistan,Tajik,1
-Tanzania,Swahili,1
-Tanzania,English,1
+United Republic of Tanzania,Swahili,1
+United Republic of Tanzania,English,1
 Thailand,Central Thai,1
 Togo,French,1
 Tokelau,English,1
@@ -376,7 +373,7 @@ Uganda,Swahili,1
 Ukraine,Ukrainian,1
 United Arab Emirates,Arabic,1
 United Kingdom,English,1
-United States,English,1
+United States of America,English,1
 Uruguay,Spanish,1
 Uruguay,Uruguayan Sign Language,1
 Uzbekistan,Uzbek,1
