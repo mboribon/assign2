@@ -1,403 +1,403 @@
-Country,Officiallanguage,Count
-Abkhazia,Abkhaz,1
-Abkhazia,Russian,1
-Afghanistan,Persian,1
-Afghanistan,Pashto,1
-Albania,Albanian,1
-Algeria,Arabic,1
-Algeria,Berber,1
-Andorra,Catalan,1
-Angola,Portuguese,1
-Antigua and Barbuda,English,1
-Argentina,Spanish,1
-Armenia,Armenian,1
-Australia,English,1
-Austria,German,1
-Azerbaijan,Azerbaijani,1
-The Bahamas,English,1
-Bahrain,Arabic,1
-Bangladesh,Bengali,1
-Barbados,English,1
-Belarus,Belarusian,1
-Belarus,Russian,1
-Belgium,Dutch,1
-Belgium,French,1
-Belgium,German,1
-Belize,English,1
-Benin,French,1
-Bhutan,Dzongkha,1
-Bolivia,Castilian,1
-Bolivia,Aymara,1
-Bolivia,Araona,1
-Bolivia,Baure,1
-Bolivia,Bésiro,1
-Bolivia,Canichana,1
-Bolivia,Cavineña,1
-Bolivia,Cayubaba,1
-Bolivia,Chácobo,1
-Bolivia,Chimán,1
-Bolivia,Ese Ejja,1
-Bolivia,Guaraní,1
-Bolivia,Guarasu'we,1
-Bolivia,Guarayu,1
-Bolivia,Itonama,1
-Bolivia,Leco,1
-Bolivia,Machajuyai-Kallawaya,1
-Bolivia,Machineri,1
-Bolivia,Maropa,1
-Bolivia,Mojeño-Ignaciano,1
-Bolivia,Mojeño-Trinitario,1
-Bolivia,Moré,1
-Bolivia,Mosetén,1
-Bolivia,Movima,1
-Bolivia,Pacawara,1
-Bolivia,Puquina,1
-Bolivia,Quechua,1
-Bolivia,Sirionó,1
-Bolivia,Tacana,1
-Bolivia,Tapieté,1
-Bolivia,Toromona,1
-Bolivia,Uru-Chipaya,1
-Bolivia,Weenhayek,1
-Bolivia,Yaminawa,1
-Bolivia,Yuki,1
-Bolivia,Yuracaré,1
-Bolivia,Zamuco,1
-Bosnia and Herzegovina,Bosnian,1
-Bosnia and Herzegovina,Serbian,1
-Bosnia and Herzegovina,Croatian,1
-Botswana,English,1
-Brazil,Portuguese,1
-Brunei,Malay,1
-Bulgaria,Bulgarian,1
-Burkina Faso,French,1
-Burundi,French,1
-Burundi,Kirundi,1
-Burundi,English,1
-Cambodia,Khmer,1
-Cameroon,English,1
-Cameroon,French,1
-Canada,English,1
-Canada,French,1
-Cape Verde,Portuguese,1
-Central African Republic,French,1
-Central African Republic,Sango,1
-Chad,Arabic,1
-Chad,French,1
-Chile,Spanish,1
-China,Standard Chinese,1
-Christmas Island,English,1
-Christmas Island,Mandarin Chinese,1
-Christmas Island,Malay,1
-Cocos (Keeling) Islands,English,1
-Cocos (Keeling) Islands,Cocos Malay,1
-Colombia,Spanish,1
-Comoros,Arabic,1
-Comoros,Comorian,1
-Comoros,French,1
-Democratic Republic of the Congo,French,1
-Republic of the Congo,French,1
-Cook Islands,English,1
-Cook Islands,Cook Islands M?ori,1
-Costa Rica,Spanish,1
-Croatia,Croatian,1
-Cuba,Spanish,1
-Cyprus,Greek,1
-Cyprus,Turkish,1
-Czech Republic,Czech,1
-Czech Republic,Slovak,1
-Denmark,Danish,1
-Djibouti,Arabic,1
-Djibouti,French,1
-Dominica,English,1
-Dominican Republic,Spanish,1
-East Timor,Portuguese,1
-East Timor,Tetum,1
-Ecuador,Spanish,1
-Egypt,Arabic,1
-El Salvador,Spanish,1
-Equatorial Guinea,French,1
-Equatorial Guinea,Portuguese,1
-Equatorial Guinea,Spanish,1
-Eritrea,Tigrinya,1
-Estonia,Estonian,1
-eSwatini,English,1
-eSwatini,Swazi,1
-Ethiopia,Afar,1
-Ethiopia,Amharic,1
-Ethiopia,Oromo,1
-Ethiopia,Somali,1
-Ethiopia,Tigrinya,1
-Fiji,English,1
-Fiji,Fijian,1
-Fiji,Fiji Hindi,1
-Finland,Finnish,1
-Finland,Swedish,1
-France,French,1
-Gabon,French,1
-Gambia,English,1
-Georgia,Georgian,1
-Germany,German,1
-Ghana,English,1
-Greece,Greek,1
-Grenada,English,1
-Guatemala,Spanish,1
-Guinea,French,1
-Guinea-Bissau,Portuguese,1
-Guyana,English,1
-Haiti,French,1
-Haiti,Haitian Creole,1
-Honduras,Spanish,1
-Hungary,Hungarian,1
-Iceland,Icelandic,1
-Iceland,Icelandic Sign Language,1
-India,Hindi,1
-India,English,1
-India,Assamese,1
-India,Bengali,1
-India,Bodo,1
-India,Dogri,1
-India,Gujarati,1
-India,Hindi,1
-India,Kannada,1
-India,Kashmiri,1
-India,Konkani,1
-India,Maithili,1
-India,Malayalam,1
-India,Meitei(Manipuri),1
-India,Marathi,1
-India,Nepali,1
-India,Odia(Oriya),1
-India,Punjabi,1
-India,Sanskrit,1
-India,Santali,1
-India,Sindhi,1
-India,Tamil,1
-India,Telugu,1
-India,Urdu,1
-Indonesia,Indonesian,1
-Iran,Persian,1
-Iraq,Arabic,1
-Iraq,Kurdish,1
-Ireland,Irish,1
-Ireland,English,1
-Israel,Hebrew,1
-Italy,Italian,1
-Ivory Coast,French,1
-Jamaica,English,1
-Japan,Japanese,1
-Jordan,Arabic,1
-Kazakhstan,Kazakh,1
-Kazakhstan,Russian,1
-Kenya,English,1
-Kenya,Swahili,1
-Kiribati,English,1
-Kiribati,Gilbertese,1
-North Korea,Korean,1
-South Korea,Korean,1
-South Korea,Korean Sign Language,1
-Kosovo,Albanian,1
-Kosovo,Serbian,1
-Kuwait,Standard Arabic,1
-Kyrgyzstan,Kyrgyz,1
-Kyrgyzstan,Russian,1
-Laos,Lao,1
-Latvia,Latvian,1
-Lebanon,Arabic,1
-Lesotho,Sotho,1
-Lesotho,English,1
-Liberia,English,1
-Libya,Arabic,1
-Liechtenstein,German,1
-Lithuania,Lithuanian,1
-Luxembourg,French,1
-Luxembourg,German,1
-Luxembourg,Luxembourgish,1
-Madagascar,French,1
-Madagascar,Malagasy,1
-Malawi,English,1
-Malawi,Chichewa,1
-Malaysia,Malay,1
-Maldives,Dhivehi,1
-Mali,Bambara,1
-Mali,Bobo,1
-Mali,Bozo,1
-Mali,Dogon,1
-Mali,Fula,1
-Mali,Hassaniya,1
-Mali,Kassonke,1
-Mali,Maninke,1
-Mali,Minyanka,1
-Mali,Senufo,1
-Mali,Songhay ,1
-Mali,Soninke,1
-Mali,Tamasheq,1
-Malta,Maltese,1
-Malta,English,1
-Sovereign Military Order of Malta,Italian,1
-Marshall Islands,English,1
-Marshall Islands,Marshallese,1
-Mauritania,Arabic,1
-Mauritius,English,1
-Mauritius,Mauritian Creole,1
-Mexico,Spanish,1
-Federated States of Micronesia,English,1
-Moldova,Romanian,1
-Monaco,French,1
-Mongolia,Mongolian,1
-Montenegro,Montenegrin,1
-Morocco,Arabic,1
-,Berber,1
-Mozambique,Portuguese,1
-Myanmar,Burmese,1
-Namibia,English,1
-Nauru,English,1
-Nauru,Nauruan,1
-Nepal,Nepali,1
-Netherlands,Dutch,1
-New Zealand,English,1
-New Zealand,Maori ,1
-New Zealand,New Zealand Sign Language,1
-Nicaragua,Spanish,1
-Niger,French,1
-Nigeria,English,1
-Niue,English,1
-Niue,Niuean,1
-Norfolk Island,English,1
-Norfolk Island,Norfuk,1
-Macedonia,Macedonian,1
-Macedonia,Albanian,1
-Northern Cyprus,Turkish,1
-Norway,Norwegian,1
-Norway,Sami ,1
-Oman,Arabic,1
-Pakistan,Urdu,1
-Pakistan,English,1
-Palau,English,1
-Palau,Palauan,1
-Palestine,Arabic,1
-Panama,Spanish,1
-Papua New Guinea,English,1
-Papua New Guinea,Hiri Motu,1
-Papua New Guinea,PNG Sign Language,1
-Papua New Guinea,Tok Pisin,1
-Paraguay,Spanish,1
-Paraguay,Guaraní,1
-Peru,Spanish,1
-Philippines,Filipino,1
-Philippines,English,1
-Poland,Polish,1
-Portugal,Portuguese,1
-Qatar,Arabic,1
-Romania,Romanian,1
-Russia,Russian,1
-Rwanda,English,1
-Rwanda,French,1
-Rwanda,Kinyarwanda,1
-Rwanda,Swahili,1
-Sahrawi Arab Democratic Republic,Arabic,1
-Sahrawi Arab Democratic Republic,Spanish,1
-Saint Kitts and Nevis,English,1
-Saint Lucia,English,1
-Saint Vincent and the Grenadines,English,1
-Samoa,English,1
-Samoa,Samoan,1
-San Marino,Italian,1
-São Tomé and Príncipe,Portuguese,1
-Saudi Arabia,Arabic,1
-Senegal,French,1
-Republic of Serbia,Serbian,1
-Seychelles,English,1
-Seychelles,French,1
-Seychelles,Seychellois Creole,1
-Sierra Leone,English,1
-Singapore,English,1
-Singapore,Malay,1
-Singapore,Mandarin Chinese,1
-Singapore,Tamil,1
-Slovakia,Slovak,1
-Slovenia,Slovene,1
-Solomon Islands,English,1
-Somalia,Arabic,1
-Somalia,Somali,1
-Somaliland,Arabic,1
-Somaliland,English,1
-Somaliland,Somali,1
-South Africa,Afrikaans,1
-South Africa,English,1
-South Africa,Southern Ndebele,1
-South Africa,Sotho,1
-South Africa,Northern Sotho,1
-South Africa,Swazi,1
-South Africa,Tsonga,1
-South Africa,Tswana,1
-South Africa,Venda,1
-South Africa,Xhosa,1
-South Africa,Zulu,1
-South Ossetia,Ossetian,1
-South Ossetia,Russian,1
-South Sudan,English,1
-Spain,Spanish,1
-Sri Lanka,Sinhala,1
-Sri Lanka,Tamil,1
-Sudan,Arabic,1
-Sudan,English,1
-Suriname,Dutch,1
-Sweden,Swedish,1
-Switzerland,French,1
-Switzerland,German ,1
-Switzerland,Italian ,1
-Switzerland,Romansh,1
-Syria,Arabic,1
-Taiwan,Mandarin,1
-Tajikistan,Tajik,1
-United Republic of Tanzania,Swahili,1
-United Republic of Tanzania,English,1
-Thailand,Central Thai,1
-Togo,French,1
-Tokelau,English,1
-Tokelau,Tokelauan,1
-Tonga,English,1
-Tonga,Tongan,1
-Transnistria,Moldovan,1
-Transnistria,Russian,1
-Transnistria,Ukrainian,1
-Trinidad and Tobago,English,1
-Tunisia,Arabic,1
-Turkey,Turkish,1
-Turkmenistan,Turkmen,1
-Tuvalu,Tuvaluan,1
-Tuvalu,English,1
-Uganda,English,1
-Uganda,Swahili,1
-Ukraine,Ukrainian,1
-United Arab Emirates,Arabic,1
-United Kingdom,English,1
-United States of America,English,1
-Uruguay,Spanish,1
-Uruguay,Uruguayan Sign Language,1
-Uzbekistan,Uzbek,1
-Vanuatu,English,1
-Vanuatu,French,1
-Vanuatu,Bislama,1
-Vatican City,Italian,1
-Venezuela,Spanish,1
-Venezuela,Venezuelan Sign Language,1
-Vietnam,Vietnamese,1
-Yemen,Arabic,1
-Zambia,English,1
-Zimbabwe,Chewa,1
-Zimbabwe,Chibarwe,1
-Zimbabwe,English,1
-Zimbabwe,Kalanga,1
-Zimbabwe,Khoisan,1
-Zimbabwe,Nambya,1
-Zimbabwe,Ndau,1
-Zimbabwe,Ndebele,1
-Zimbabwe,Shangani,1
-Zimbabwe,Shona,1
-Zimbabwe,Sotho,1
-Zimbabwe,Tonga,1
-Zimbabwe,Tswana,1
-Zimbabwe,Venda,1
-Zimbabwe,Xhosa,1
+Country,Officiallanguage,Count,lat,lon
+Abkhazia,Abkhaz,1,-20,-135
+Abkhazia,Russian,1,-20,-135
+Afghanistan,Persian,1,-20,-135
+Afghanistan,Pashto,1,-20,-135
+Albania,Albanian,1,-20,-135
+Algeria,Arabic,1,-20,-135
+Algeria,Berber,1,-20,-135
+Andorra,Catalan,1,-20,-135
+Angola,Portuguese,1,-20,-135
+Antigua and Barbuda,English,1,-20,-135
+Argentina,Spanish,1,-20,-135
+Armenia,Armenian,1,-20,-135
+Australia,English,1,-20,-135
+Austria,German,1,-20,-135
+Azerbaijan,Azerbaijani,1,-20,-135
+The Bahamas,English,1,-20,-135
+Bahrain,Arabic,1,-20,-135
+Bangladesh,Bengali,1,-20,-135
+Barbados,English,1,-20,-135
+Belarus,Belarusian,1,-20,-135
+Belarus,Russian,1,-20,-135
+Belgium,Dutch,1,-20,-135
+Belgium,French,1,-20,-135
+Belgium,German,1,-20,-135
+Belize,English,1,-20,-135
+Benin,French,1,-20,-135
+Bhutan,Dzongkha,1,-20,-135
+Bolivia,Castilian,1,-20,-135
+Bolivia,Aymara,1,-20,-135
+Bolivia,Araona,1,-20,-135
+Bolivia,Baure,1,-20,-135
+Bolivia,Bésiro,1,-20,-135
+Bolivia,Canichana,1,-20,-135
+Bolivia,Cavineña,1,-20,-135
+Bolivia,Cayubaba,1,-20,-135
+Bolivia,Chácobo,1,-20,-135
+Bolivia,Chimán,1,-20,-135
+Bolivia,Ese Ejja,1,-20,-135
+Bolivia,Guaraní,1,-20,-135
+Bolivia,Guarasu'we,1,-20,-135
+Bolivia,Guarayu,1,-20,-135
+Bolivia,Itonama,1,-20,-135
+Bolivia,Leco,1,-20,-135
+Bolivia,Machajuyai-Kallawaya,1,-20,-135
+Bolivia,Machineri,1,-20,-135
+Bolivia,Maropa,1,-20,-135
+Bolivia,Mojeño-Ignaciano,1,-20,-135
+Bolivia,Mojeño-Trinitario,1,-20,-135
+Bolivia,Moré,1,-20,-135
+Bolivia,Mosetén,1,-20,-135
+Bolivia,Movima,1,-20,-135
+Bolivia,Pacawara,1,-20,-135
+Bolivia,Puquina,1,-20,-135
+Bolivia,Quechua,1,-20,-135
+Bolivia,Sirionó,1,-20,-135
+Bolivia,Tacana,1,-20,-135
+Bolivia,Tapieté,1,-20,-135
+Bolivia,Toromona,1,-20,-135
+Bolivia,Uru-Chipaya,1,-20,-135
+Bolivia,Weenhayek,1,-20,-135
+Bolivia,Yaminawa,1,-20,-135
+Bolivia,Yuki,1,-20,-135
+Bolivia,Yuracaré,1,-20,-135
+Bolivia,Zamuco,1,-20,-135
+Bosnia and Herzegovina,Bosnian,1,-20,-135
+Bosnia and Herzegovina,Serbian,1,-20,-135
+Bosnia and Herzegovina,Croatian,1,-20,-135
+Botswana,English,1,-20,-135
+Brazil,Portuguese,1,-20,-135
+Brunei,Malay,1,-20,-135
+Bulgaria,Bulgarian,1,-20,-135
+Burkina Faso,French,1,-20,-135
+Burundi,French,1,-20,-135
+Burundi,Kirundi,1,-20,-135
+Burundi,English,1,-20,-135
+Cambodia,Khmer,1,-20,-135
+Cameroon,English,1,-20,-135
+Cameroon,French,1,-20,-135
+Canada,English,1,-20,-135
+Canada,French,1,-20,-135
+Cape Verde,Portuguese,1,-20,-135
+Central African Republic,French,1,-20,-135
+Central African Republic,Sango,1,-20,-135
+Chad,Arabic,1,-20,-135
+Chad,French,1,-20,-135
+Chile,Spanish,1,-20,-135
+China,Standard Chinese,1,-20,-135
+Christmas Island,English,1,-20,-135
+Christmas Island,Mandarin Chinese,1,-20,-135
+Christmas Island,Malay,1,-20,-135
+Cocos (Keeling) Islands,English,1,-20,-135
+Cocos (Keeling) Islands,Cocos Malay,1,-20,-135
+Colombia,Spanish,1,-20,-135
+Comoros,Arabic,1,-20,-135
+Comoros,Comorian,1,-20,-135
+Comoros,French,1,-20,-135
+Democratic Republic of the Congo,French,1,-20,-135
+Republic of the Congo,French,1,-20,-135
+Cook Islands,English,1,-20,-135
+Cook Islands,Cook Islands M?ori,1,-20,-135
+Costa Rica,Spanish,1,-20,-135
+Croatia,Croatian,1,-20,-135
+Cuba,Spanish,1,-20,-135
+Cyprus,Greek,1,-20,-135
+Cyprus,Turkish,1,-20,-135
+Czech Republic,Czech,1,-20,-135
+Czech Republic,Slovak,1,-20,-135
+Denmark,Danish,1,-20,-135
+Djibouti,Arabic,1,-20,-135
+Djibouti,French,1,-20,-135
+Dominica,English,1,-20,-135
+Dominican Republic,Spanish,1,-20,-135
+East Timor,Portuguese,1,-20,-135
+East Timor,Tetum,1,-20,-135
+Ecuador,Spanish,1,-20,-135
+Egypt,Arabic,1,-20,-135
+El Salvador,Spanish,1,-20,-135
+Equatorial Guinea,French,1,-20,-135
+Equatorial Guinea,Portuguese,1,-20,-135
+Equatorial Guinea,Spanish,1,-20,-135
+Eritrea,Tigrinya,1,-20,-135
+Estonia,Estonian,1,-20,-135
+eSwatini,English,1,-20,-135
+eSwatini,Swazi,1,-20,-135
+Ethiopia,Afar,1,-20,-135
+Ethiopia,Amharic,1,-20,-135
+Ethiopia,Oromo,1,-20,-135
+Ethiopia,Somali,1,-20,-135
+Ethiopia,Tigrinya,1,-20,-135
+Fiji,English,1,-20,-135
+Fiji,Fijian,1,-20,-135
+Fiji,Fiji Hindi,1,-20,-135
+Finland,Finnish,1,-20,-135
+Finland,Swedish,1,-20,-135
+France,French,1,-20,-135
+Gabon,French,1,-20,-135
+Gambia,English,1,-20,-135
+Georgia,Georgian,1,-20,-135
+Germany,German,1,-20,-135
+Ghana,English,1,-20,-135
+Greece,Greek,1,-20,-135
+Grenada,English,1,-20,-135
+Guatemala,Spanish,1,-20,-135
+Guinea,French,1,-20,-135
+Guinea-Bissau,Portuguese,1,-20,-135
+Guyana,English,1,-20,-135
+Haiti,French,1,-20,-135
+Haiti,Haitian Creole,1,-20,-135
+Honduras,Spanish,1,-20,-135
+Hungary,Hungarian,1,-20,-135
+Iceland,Icelandic,1,-20,-135
+Iceland,Icelandic Sign Language,1,-20,-135
+India,Hindi,1,-20,-135
+India,English,1,-20,-135
+India,Assamese,1,-20,-135
+India,Bengali,1,-20,-135
+India,Bodo,1,-20,-135
+India,Dogri,1,-20,-135
+India,Gujarati,1,-20,-135
+India,Hindi,1,-20,-135
+India,Kannada,1,-20,-135
+India,Kashmiri,1,-20,-135
+India,Konkani,1,-20,-135
+India,Maithili,1,-20,-135
+India,Malayalam,1,-20,-135
+India,Meitei(Manipuri),1,-20,-135
+India,Marathi,1,-20,-135
+India,Nepali,1,-20,-135
+India,Odia(Oriya),1,-20,-135
+India,Punjabi,1,-20,-135
+India,Sanskrit,1,-20,-135
+India,Santali,1,-20,-135
+India,Sindhi,1,-20,-135
+India,Tamil,1,-20,-135
+India,Telugu,1,-20,-135
+India,Urdu,1,-20,-135
+Indonesia,Indonesian,1,-20,-135
+Iran,Persian,1,-20,-135
+Iraq,Arabic,1,-20,-135
+Iraq,Kurdish,1,-20,-135
+Ireland,Irish,1,-20,-135
+Ireland,English,1,-20,-135
+Israel,Hebrew,1,-20,-135
+Italy,Italian,1,-20,-135
+Ivory Coast,French,1,-20,-135
+Jamaica,English,1,-20,-135
+Japan,Japanese,1,-20,-135
+Jordan,Arabic,1,-20,-135
+Kazakhstan,Kazakh,1,-20,-135
+Kazakhstan,Russian,1,-20,-135
+Kenya,English,1,-20,-135
+Kenya,Swahili,1,-20,-135
+Kiribati,English,1,-20,-135
+Kiribati,Gilbertese,1,-20,-135
+North Korea,Korean,1,-20,-135
+South Korea,Korean,1,-20,-135
+South Korea,Korean Sign Language,1,-20,-135
+Kosovo,Albanian,1,-20,-135
+Kosovo,Serbian,1,-20,-135
+Kuwait,Standard Arabic,1,-20,-135
+Kyrgyzstan,Kyrgyz,1,-20,-135
+Kyrgyzstan,Russian,1,-20,-135
+Laos,Lao,1,-20,-135
+Latvia,Latvian,1,-20,-135
+Lebanon,Arabic,1,-20,-135
+Lesotho,Sotho,1,-20,-135
+Lesotho,English,1,-20,-135
+Liberia,English,1,-20,-135
+Libya,Arabic,1,-20,-135
+Liechtenstein,German,1,-20,-135
+Lithuania,Lithuanian,1,-20,-135
+Luxembourg,French,1,-20,-135
+Luxembourg,German,1,-20,-135
+Luxembourg,Luxembourgish,1,-20,-135
+Madagascar,French,1,-20,-135
+Madagascar,Malagasy,1,-20,-135
+Malawi,English,1,-20,-135
+Malawi,Chichewa,1,-20,-135
+Malaysia,Malay,1,-20,-135
+Maldives,Dhivehi,1,-20,-135
+Mali,Bambara,1,-20,-135
+Mali,Bobo,1,-20,-135
+Mali,Bozo,1,-20,-135
+Mali,Dogon,1,-20,-135
+Mali,Fula,1,-20,-135
+Mali,Hassaniya,1,-20,-135
+Mali,Kassonke,1,-20,-135
+Mali,Maninke,1,-20,-135
+Mali,Minyanka,1,-20,-135
+Mali,Senufo,1,-20,-135
+Mali,Songhay ,1,-20,-135
+Mali,Soninke,1,-20,-135
+Mali,Tamasheq,1,-20,-135
+Malta,Maltese,1,-20,-135
+Malta,English,1,-20,-135
+Sovereign Military Order of Malta,Italian,1,-20,-135
+Marshall Islands,English,1,-20,-135
+Marshall Islands,Marshallese,1,-20,-135
+Mauritania,Arabic,1,-20,-135
+Mauritius,English,1,-20,-135
+Mauritius,Mauritian Creole,1,-20,-135
+Mexico,Spanish,1,-20,-135
+Federated States of Micronesia,English,1,-20,-135
+Moldova,Romanian,1,-20,-135
+Monaco,French,1,-20,-135
+Mongolia,Mongolian,1,-20,-135
+Montenegro,Montenegrin,1,-20,-135
+Morocco,Arabic,1,-20,-135
+,Berber,1,-20,-135
+Mozambique,Portuguese,1,-20,-135
+Myanmar,Burmese,1,-20,-135
+Namibia,English,1,-20,-135
+Nauru,English,1,-20,-135
+Nauru,Nauruan,1,-20,-135
+Nepal,Nepali,1,-20,-135
+Netherlands,Dutch,1,-20,-135
+New Zealand,English,1,-20,-135
+New Zealand,Maori ,1,-20,-135
+New Zealand,New Zealand Sign Language,1,-20,-135
+Nicaragua,Spanish,1,-20,-135
+Niger,French,1,-20,-135
+Nigeria,English,1,-20,-135
+Niue,English,1,-20,-135
+Niue,Niuean,1,-20,-135
+Norfolk Island,English,1,-20,-135
+Norfolk Island,Norfuk,1,-20,-135
+Macedonia,Macedonian,1,-20,-135
+Macedonia,Albanian,1,-20,-135
+Northern Cyprus,Turkish,1,-20,-135
+Norway,Norwegian,1,-20,-135
+Norway,Sami ,1,-20,-135
+Oman,Arabic,1,-20,-135
+Pakistan,Urdu,1,-20,-135
+Pakistan,English,1,-20,-135
+Palau,English,1,-20,-135
+Palau,Palauan,1,-20,-135
+Palestine,Arabic,1,-20,-135
+Panama,Spanish,1,-20,-135
+Papua New Guinea,English,1,-20,-135
+Papua New Guinea,Hiri Motu,1,-20,-135
+Papua New Guinea,PNG Sign Language,1,-20,-135
+Papua New Guinea,Tok Pisin,1,-20,-135
+Paraguay,Spanish,1,-20,-135
+Paraguay,Guaraní,1,-20,-135
+Peru,Spanish,1,-20,-135
+Philippines,Filipino,1,-20,-135
+Philippines,English,1,-20,-135
+Poland,Polish,1,-20,-135
+Portugal,Portuguese,1,-20,-135
+Qatar,Arabic,1,-20,-135
+Romania,Romanian,1,-20,-135
+Russia,Russian,1,-20,-135
+Rwanda,English,1,-20,-135
+Rwanda,French,1,-20,-135
+Rwanda,Kinyarwanda,1,-20,-135
+Rwanda,Swahili,1,-20,-135
+Sahrawi Arab Democratic Republic,Arabic,1,-20,-135
+Sahrawi Arab Democratic Republic,Spanish,1,-20,-135
+Saint Kitts and Nevis,English,1,-20,-135
+Saint Lucia,English,1,-20,-135
+Saint Vincent and the Grenadines,English,1,-20,-135
+Samoa,English,1,-20,-135
+Samoa,Samoan,1,-20,-135
+San Marino,Italian,1,-20,-135
+São Tomé and Príncipe,Portuguese,1,-20,-135
+Saudi Arabia,Arabic,1,-20,-135
+Senegal,French,1,-20,-135
+Republic of Serbia,Serbian,1,-20,-135
+Seychelles,English,1,-20,-135
+Seychelles,French,1,-20,-135
+Seychelles,Seychellois Creole,1,-20,-135
+Sierra Leone,English,1,-20,-135
+Singapore,English,1,-20,-135
+Singapore,Malay,1,-20,-135
+Singapore,Mandarin Chinese,1,-20,-135
+Singapore,Tamil,1,-20,-135
+Slovakia,Slovak,1,-20,-135
+Slovenia,Slovene,1,-20,-135
+Solomon Islands,English,1,-20,-135
+Somalia,Arabic,1,-20,-135
+Somalia,Somali,1,-20,-135
+Somaliland,Arabic,1,-20,-135
+Somaliland,English,1,-20,-135
+Somaliland,Somali,1,-20,-135
+South Africa,Afrikaans,1,-20,-135
+South Africa,English,1,-20,-135
+South Africa,Southern Ndebele,1,-20,-135
+South Africa,Sotho,1,-20,-135
+South Africa,Northern Sotho,1,-20,-135
+South Africa,Swazi,1,-20,-135
+South Africa,Tsonga,1,-20,-135
+South Africa,Tswana,1,-20,-135
+South Africa,Venda,1,-20,-135
+South Africa,Xhosa,1,-20,-135
+South Africa,Zulu,1,-20,-135
+South Ossetia,Ossetian,1,-20,-135
+South Ossetia,Russian,1,-20,-135
+South Sudan,English,1,-20,-135
+Spain,Spanish,1,-20,-135
+Sri Lanka,Sinhala,1,-20,-135
+Sri Lanka,Tamil,1,-20,-135
+Sudan,Arabic,1,-20,-135
+Sudan,English,1,-20,-135
+Suriname,Dutch,1,-20,-135
+Sweden,Swedish,1,-20,-135
+Switzerland,French,1,-20,-135
+Switzerland,German ,1,-20,-135
+Switzerland,Italian ,1,-20,-135
+Switzerland,Romansh,1,-20,-135
+Syria,Arabic,1,-20,-135
+Taiwan,Mandarin,1,-20,-135
+Tajikistan,Tajik,1,-20,-135
+United Republic of Tanzania,Swahili,1,-20,-135
+United Republic of Tanzania,English,1,-20,-135
+Thailand,Central Thai,1,-20,-135
+Togo,French,1,-20,-135
+Tokelau,English,1,-20,-135
+Tokelau,Tokelauan,1,-20,-135
+Tonga,English,1,-20,-135
+Tonga,Tongan,1,-20,-135
+Transnistria,Moldovan,1,-20,-135
+Transnistria,Russian,1,-20,-135
+Transnistria,Ukrainian,1,-20,-135
+Trinidad and Tobago,English,1,-20,-135
+Tunisia,Arabic,1,-20,-135
+Turkey,Turkish,1,-20,-135
+Turkmenistan,Turkmen,1,-20,-135
+Tuvalu,Tuvaluan,1,-20,-135
+Tuvalu,English,1,-20,-135
+Uganda,English,1,-20,-135
+Uganda,Swahili,1,-20,-135
+Ukraine,Ukrainian,1,-20,-135
+United Arab Emirates,Arabic,1,-20,-135
+United Kingdom,English,1,-20,-135
+United States of America,English,1,-20,-135
+Uruguay,Spanish,1,-20,-135
+Uruguay,Uruguayan Sign Language,1,-20,-135
+Uzbekistan,Uzbek,1,-20,-135
+Vanuatu,English,1,-20,-135
+Vanuatu,French,1,-20,-135
+Vanuatu,Bislama,1,-20,-135
+Vatican City,Italian,1,-20,-135
+Venezuela,Spanish,1,-20,-135
+Venezuela,Venezuelan Sign Language,1,-20,-135
+Vietnam,Vietnamese,1,-20,-135
+Yemen,Arabic,1,-20,-135
+Zambia,English,1,-20,-135
+Zimbabwe,Chewa,1,-20,-135
+Zimbabwe,Chibarwe,1,-20,-135
+Zimbabwe,English,1,-20,-135
+Zimbabwe,Kalanga,1,-20,-135
+Zimbabwe,Khoisan,1,-20,-135
+Zimbabwe,Nambya,1,-20,-135
+Zimbabwe,Ndau,1,-20,-135
+Zimbabwe,Ndebele,1,-20,-135
+Zimbabwe,Shangani,1,-20,-135
+Zimbabwe,Shona,1,-20,-135
+Zimbabwe,Sotho,1,-20,-135
+Zimbabwe,Tonga,1,-20,-135
+Zimbabwe,Tswana,1,-20,-135
+Zimbabwe,Venda,1,-20,-135
+Zimbabwe,Xhosa,1,-20,-135
