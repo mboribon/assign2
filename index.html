@@ -57,7 +57,7 @@
             font-weight: bold; /* Make the text bold */
         }
         body {
-            background-color: lightblue; /* Change this to any color you like */
+            background-color: skyblue; /* Change this to any color you like */
             margin: 0; /* Remove default margin */
             padding: 0; /* Remove default padding */
         }
@@ -97,7 +97,7 @@
     <script type="text/javascript">
         const spec = {
                 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-                "background": "lightblue",
+                "background": "skyblue",
                 "params": [
                     {
                     "name": "languageselect",
@@ -120,19 +120,19 @@
                     }
                     },
                     {
-                        "name": "languageColor",
-                        "value": {
-                            "English": "#1f77b4",  // Blue
-                            "Mandarin": "#d62728",  // Red
-                            "Hindi": "#ff9933",  // Saffron
-                            "Spanish": "#ffcc00",  // Yellow
-                            "Arabic": "#228B22",  // Green
-                            "French": "#000080",  // Navy Blue
-                            "Bengali": "#32CD32",  // Lime Green
-                            "Portuguese": "#006400",  // Dark Green
-                            "Russian": "#DC143C",  // Crimson
-                            "Urdu": "#556B2F"   // Dark Olive Green
-                        }
+                    "name": "languageColor",
+                    "value": {
+                        "English": "#1f77b4",
+                        "Mandarin": "#d62728",
+                        "Hindi": "#ff9933",
+                        "Spanish": "#ffcc00",
+                        "Arabic": "#228B22",
+                        "French": "#000080",
+                        "Bengali": "#32CD32",
+                        "Portuguese": "#006400",
+                        "Russian": "#DC143C",
+                        "Urdu": "#556B2F"
+                    }
                     }
                 ],
                 "vconcat": [
@@ -170,7 +170,11 @@
                                 "type": "nominal",
                                 "title": "Country"
                             },
-                            {"field": "Officiallanguage", "type": "nominal", "title": "Official Language"}
+                            {
+                                "field": "Officiallanguage",
+                                "type": "nominal",
+                                "title": "Official Language"
+                            }
                             ]
                         }
                         },
@@ -182,36 +186,36 @@
                             "type": "nominal",
                             "scale": {
                                 "domain": [
-                                    "English",
-                                    "Mandarin",
-                                    "Hindi",
-                                    "Spanish",
-                                    "Arabic",
-                                    "French",
-                                    "Bengali",
-                                    "Portuguese",
-                                    "Russian",
-                                    "Urdu"
+                                "English",
+                                "Mandarin",
+                                "Hindi",
+                                "Spanish",
+                                "Arabic",
+                                "French",
+                                "Bengali",
+                                "Portuguese",
+                                "Russian",
+                                "Urdu"
                                 ],
                                 "range": [
-                                    "#1f77b4",  // English: Blue
-                                    "#d62728",  // Mandarin: Red
-                                    "#ff9933",  // Hindi: Saffron
-                                    "#ffcc00",  // Spanish: Yellow
-                                    "#228B22",  // Arabic: Green
-                                    "#000080",  // French: Navy Blue
-                                    "#32CD32",  // Bengali: Lime Green
-                                    "#006400",  // Portuguese: Dark Green
-                                    "#DC143C",  // Russian: Crimson
-                                    "#556B2F"   // Urdu: Dark Olive Green
+                                "#1f77b4",
+                                "#d62728",
+                                "#ff9933",
+                                "#ffcc00",
+                                "#228B22",
+                                "#000080",
+                                "#32CD32",
+                                "#006400",
+                                "#DC143C",
+                                "#556B2F"
                                 ]
                             },
                             "legend": {
                                 "title": "Official Language",
-                                "orient": "none",   
+                                "orient": "none",
                                 "legendX": 1000,
                                 "legendY": 0
-                                }
+                            }
                             }
                         }
                         },
@@ -221,13 +225,6 @@
                             "format": {"type": "topojson", "feature": "oceans"}
                         },
                         "mark": {"type": "geoshape", "fill": "skyblue"}
-                        },
-                        {
-                        "data": {
-                            "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/2_symbol_map/js/WorldMapWithGraticules.topojson",
-                            "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
-                        },
-                        "mark": {"type": "geoshape", "fill": "null", "stroke": "white"}
                         },
                         {
                         "data": {
@@ -353,7 +350,7 @@
                         "size": {
                         "field": "Second-language-billions",
                         "type": "quantitative",
-                        "scale": {"range": [50, 2500]},
+                        "scale": {"range": [100, 2500]},
                         "legend": {
                             "title": ["Second Language Speakers", "(Millions)"],
                             "orient": "none",
