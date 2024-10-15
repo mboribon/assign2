@@ -9,18 +9,38 @@
             display: flex;
             justify-content: space-between;
             align-items: flex-start; /* Align items at the top */
-            margin-top: 0; /* Remove top margin */
+            margin: 0;
+            padding-top: 0px;
+        }
+        .intro-container {
+            padding-left: 20px; /* Add padding to the left */
+            padding-right: 20px; /* Add padding to the right */
+            margin: 0;
+            font-family: 'Helvetica', sans-serif;
+            font-weight: bold; /* Make the text bold */
+        }
+        .intro-container p {
+            font-weight: normal; /* Set paragraph text to normal weight */
         }
         .vis-container {
             flex: 2; /* Take up 2/3 of the space */
+            padding-left: 20px; /* Add padding to the left */
             margin-right: 20px; /* Space between the visualization and the text */
-            margin-top: 0; /* Remove top margin */
+            padding-bottom: 20px; /* Add padding to the bottom */
+            padding-top: 15px;
         }
         .text-container {
             flex: 1; /* Take up 1/3 of the space */
             font-family: 'Helvetica', sans-serif;
-            font-weight: bold; /* Make the text bold */
+            font-size: 15px; /* Match the font size to Vega-Lite annotations */
+            padding-right: 20px; /* Add padding to the right */
             margin-top: 0; /* Ensure no top margin */
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start; /* Align items at the top */
+        }
+        .text-container p {
+            font-weight: normal; /* Set paragraph text to normal weight */
         }
         .vega-bindings {
             display: flex; /* Apply flexbox to the dropdown */
@@ -38,6 +58,8 @@
         }
         body {
             background-color: lightblue; /* Change this to any color you like */
+            margin: 0; /* Remove default margin */
+            padding: 0; /* Remove default padding */
         }
     </style>
     <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
@@ -46,15 +68,33 @@
 </head>
 <body>
     <h1>Languages around the Globe</h1> <!-- This title appears on the webpage -->
+    <div class="intro-container">
+        <h2>The Importance of Language Diversity</h2>
+        <p>Language diversity is crucial for preserving cultural heritage and fostering mutual understanding among different communities. It allows us to appreciate the unique perspectives and traditions of various cultures, enriching our global society.</p>
+    </div>
     <div class="vega-bindings"></div> <!-- This will hold the dropdown -->
     <div class="container">
         <div id="vis" class="vis-container"></div>
         <div class="text-container">
-            <p>Languages vary greatly across the globe, each having their own dialects, accents and even sub.</p>
+            <h2>Multilingual Countries</h2>
+            <p>Many countries have multiple official languages, highlighting their cultural and linguistic richness. For example:</p>
+            <ul>
+                <li><strong>Belgium</strong>: Dutch, French, and German are the official languages.</li>
+                <li><strong>Canada</strong>: English and French are the official languages.</li>
+                <li><strong>India</strong>: India recognizes 22 official languages, including Hindi and English.</li>
+                <li><strong>Switzerland</strong>: German, French, Italian, and Romansh are the official languages.</li>
+            </ul>
+            <p>This multilingualism showcases the ability of diverse linguistic communities to coexist and thrive within a single nation.</p>
+            
+            <h2>About the Visualization</h2>
+            <p>This visualization represents the most commonly spoken language in each country. While many countries have multiple official languages, this map focuses on the predominant language to provide a clear and simplified view of global linguistic distribution.</p>
+            
+            <h2>Explore the Map</h2>
+            <p>From widely spoken languages like Mandarin, Spanish, and English to lesser-known indigenous languages, each contributes to the rich tapestry of global communication. Understanding the distribution and characteristics of these languages helps us appreciate the cultural and linguistic diversity of our world.</p>
+            <p>Explore the map to discover more about the languages spoken in different parts of the world and how they connect communities across continents. Hovering over each country provides information on the predominant language spoken</p>
         </div>
     </div>
     <script type="text/javascript">
-
         const spec = {
                 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
                 "background": "lightblue",
@@ -130,7 +170,7 @@
                                 "type": "nominal",
                                 "title": "Country"
                             },
-                            {"field": "Officiallanguage", "type": "nominal"}
+                            {"field": "Officiallanguage", "type": "nominal", "title": "Official Language"}
                             ]
                         }
                         },
